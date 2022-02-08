@@ -13,11 +13,11 @@ optional arguments:
 
 # Example:
 
-HTTP request to 127.0.0.1:80. Only show error infomation
+HTTP request to 127.0.0.1:80. Only show error infomation.
 > python http_Client_hwTest.py
 
 HTTP request to 127.0.0.1:80. Show http response and error information.
 > python http_Client_hwTest.py -v
 
-HTTP request to 127.0.0.1:6659. Show http response and error information.
+HTTP request to 127.0.0.1:6659.
 > python http_Client_hwTest.py -p 6659
