@@ -1,6 +1,7 @@
 # Quick start- How to run http_Client_hwTest.py
 
 > python http_Client_hwTest.py -h
+
 usage: http_Client_hwTest.py [-h] [-s HOST] [-p PORT] [-v]
 
 The script would generate http request and check its corresponding response.
